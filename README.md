@@ -12,3 +12,8 @@ The Nexon is based on the revised Tata X1 platform debuted in 1998 with the Indi
 
 |   |
 |---|
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |

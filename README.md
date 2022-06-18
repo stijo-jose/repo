@@ -5,5 +5,6 @@
 
 *head*
 
--first item
+- first item
 
+1 - first item
